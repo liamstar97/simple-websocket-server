@@ -3,7 +3,7 @@
 * Python >= 3.9
 
 ## Installation
-To install the CLI you must first create a virtual environment in the root of the project directory. You can do this
+To install the websocket server you must first create a virtual environment in the root of the project directory. You can do this
 with the following commands.
 #### First verify correct version of python is currently being used.
 ```bash
