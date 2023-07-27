@@ -1,0 +1,2 @@
+[console_scripts]
+websocket-server-start = main:main
