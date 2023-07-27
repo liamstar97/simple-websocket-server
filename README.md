@@ -25,7 +25,7 @@ python3 -m venv venv
 ```bash
 ./venv/bin/activate
 ```
-#### Finally, once activated, install the CLI and its dependencies
+#### Finally, once activated, install the websocket server and its dependencies
 ```bash
 pip install -e .
 ```
@@ -34,7 +34,7 @@ or
 pip3 install -e .
 ```
 ## Usage
-#### Now that you have completed the installation, you can now run the following command to use the CLI
+#### Now that you have completed the installation, you can now run the following command to start the websocket server
 ```bash
 websocket-server-start
 ```
