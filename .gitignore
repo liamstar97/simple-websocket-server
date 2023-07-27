@@ -1,4 +1,5 @@
 .idea
 
 venv
-*.egg-info
+**/*.egg-info
+**/__pycache__
